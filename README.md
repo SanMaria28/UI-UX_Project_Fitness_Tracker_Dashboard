@@ -55,6 +55,6 @@ A sleek, dark-themed web application to track workouts, body metrics, nutrition,
 - [San Maria Joby](https://github.com/SanMaria28)
 - [Darain Brit A](https://github.com/Darain-Brit-A)
 
-## To open the website click on :[Fitness Pro]()
+## To open the website click on :[Fitness Pro](https://sanmaria28.github.io/UI-UX_Project_Fitness_Tracker_Dashboard/)
 
 This project is licensed under the MIT License.
